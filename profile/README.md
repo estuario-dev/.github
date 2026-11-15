@@ -14,36 +14,12 @@
   sob medida para pequenos e médios negócios.
 </p>
 
-<br>
-
 ## O que entregamos
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="./icon-globe.svg" width="28" alt=""><br>
-      <b>Presença digital</b><br>
-      <sub>Site, catálogo de produtos e pedido direto pelo WhatsApp.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <img src="./icon-boxes.svg" width="28" alt=""><br>
-      <b>Sistemas internos</b><br>
-      <sub>Estoque, validade, pedidos e agendamento num só lugar.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="./icon-chart-column.svg" width="28" alt=""><br>
-      <b>Dados e relatórios</b><br>
-      <sub>Painéis de venda e operação a partir do PDV e de planilhas.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <img src="./icon-workflow.svg" width="28" alt=""><br>
-      <b>Automação</b><br>
-      <sub>Rotinas repetitivas que hoje tomam o tempo da equipe.</sub>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./estuario-servicos-dark.svg">
+  <img alt="Presença digital: site, catálogo e pedido pelo WhatsApp. Sistemas internos: estoque, validade, pedidos e agendamento. Dados e relatórios: painéis a partir do PDV e de planilhas. Automação: rotinas repetitivas da equipe." src="./estuario-servicos-light.svg" width="100%">
+</picture>
 
 ## Como trabalhamos
 
